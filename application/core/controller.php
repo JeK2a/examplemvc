@@ -1,6 +1,6 @@
 <?php
 
-class Controller {
+abstract class Controller {
 	
 	public $model;
 	public $view;
@@ -11,8 +11,6 @@ class Controller {
     }
 	
 	// действие (action), вызываемое по умолчанию
-    function action_index()
-    {
-        // TODO: Implement action_index() method.
-    }
+    abstract function action_index();
+
 }
