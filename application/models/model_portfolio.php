@@ -2,12 +2,11 @@
 
 class Model_Portfolio implements Model
 {
-	
+
 	public function get_data()
-	{	
-		
+	{
+
 		// Здесь мы просто сэмулируем реальные данные.
-		
 		return array(
 			
 			array(
