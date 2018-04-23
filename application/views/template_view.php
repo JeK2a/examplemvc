@@ -16,7 +16,7 @@
 			<div id="header">
 				<div id="logo">
                     <p>
-                        <a href=""><img src="../images/logo.jpg" width="150" height="150" alt="lorem"></a>
+                        <a href=""><img src="../images/logo.jpg"  width="180" " alt="lorem"></a>
                     </p>
 <!--					<a href="/">JeK2a</span> <span class="cms">Компани</span></a>-->
 				</div>
@@ -38,7 +38,7 @@
 						<ul class="list">
 							<li class="first "><a href="/">Главная</a></li>
 							<li><a href="/services">Услуги</a></li>
-							<li><a href="/portfolio">Портфолио</a></li>
+							<li><a href="/portfolio">Примеры работ</a></li>
                             <li><a href="/video">Видео</a></li>
 							<li class="last"><a href="/contacts">Контакты</a></li>
 						</ul>
@@ -56,9 +56,8 @@
 				<div id="page-bottom-sidebar">
 					<h3>Наши контакты</h3>
 					<ul class="list">
-						<li class="first">icq: </li>
-						<li>skypeid: </li>
-						<li class="last">email: jek2ka@gmail.com</li>
+                        <li class="first">Телефоны для связи:</li>
+                        <li class="last">+7(978)263-0-264 (Viber, WhatsApp, Telegram)</li>
 					</ul>
 				</div>
 				<br class="clearfix"/>

@@ -25,7 +25,7 @@ a:hover {
 
 body {
 	line-height: 1.75em;
-	background: #fff url('../images/00bd.png');
+	background: #fff url('../images/fon5.png');
 	
 	font-size: 11.5pt;
 	color: #353535;
@@ -91,7 +91,7 @@ a {
 #content {
 	padding: 0 0 0 10px;
 	width: 615px;
-	margin: 0 0 0 285px;
+	margin: 0 0 0 235px;
 }
 
 #footer {
@@ -106,20 +106,21 @@ a {
 }
 
 #header {
-	height: 130px;
+	height: 60px;
 	padding: 40px;
 	position: relative;
-	background: url(../images/logo.jpg) no-repeat 85px 30px;
+	/*background: url(../images/back.jpg);*/
+	/*37px 50px;*/
 }
 
-#logo {
-	position: absolute;
-	top: 40px;
-	left: 20px;
-	height: 130px;
-	line-height: 130px;
-	
-}
+/*#logo {*/
+	/*position: center;*/
+	/*top: 10px;*/
+	/*left: 30px;*/
+	/*height: 100px;*/
+	/*line-height: 90px;*/
+	/**/
+/*}*/
 
 #logo a {
 	color: #ffffff;
@@ -131,14 +132,15 @@ a {
 
 
 #logo img {
-	margin-left: 70px;
-	vertical-align: middle;
+	/*margin-left:  10px;*/
+	vertical-align: center;
+	horiz-align: center;
 }
 
 #menu {
-	line-height: 57px;
+	line-height: 60px;
 	position: absolute;
-	right: 40px;
+	right: 0;
 	top: 76px;
 	height: 57px;
 	font-family: "Open Sans", sans-serif;
@@ -148,7 +150,7 @@ a {
 	text-transform: uppercase;
 	text-decoration: underline;
 	color: #1C1C1C;
-	font-size: 1.2em;
+	font-size: 1.4em;
 }
 
 #menu a:hover {
@@ -237,7 +239,7 @@ a {
 
 #page-bottom-sidebar {
 	float: left;
-	width: 250px;
+	width: 300px;
 }
 
 #sidebar {
@@ -245,7 +247,7 @@ a {
 	left: -20px;
 	top: -20px;
 	float: left;
-	width: 240px;
+	width: 180px;
 	background: #f3f3f3;
 	padding: 20px;
 	border: solid 1px #e3e3e3;
@@ -259,7 +261,7 @@ a {
 	position: relative;
 	background: #FFF;
 	margin: 0 auto 0 auto;
-	box-shadow: 10px 100px 150px 0px rgba(0,0,0,0.15);
+	box-shadow: 10px 0px 150px 0px rgb(127, 127, 127);
 	border: solid 1px #f3f3f3;
 	border-top: 0;
 }
